@@ -1,6 +1,6 @@
 # PHP+移动端实现移动端微信支付
-[![Support](https://img.shields.io/badge/support-PHP-blue.svg?style=flat)](http://www.php.net/)&nbsp;
-[![Support](https://img.shields.io/badge/support-ThinkPHP-red.svg?style=flat)](http://www.thinkphp.cn/)&nbsp;
+[![Support](https://img.shields.io/badge/support-PHP-blue.svg?style=flat)](http://www.php.net/)
+[![Support](https://img.shields.io/badge/support-ThinkPHP-red.svg?style=flat)](http://www.thinkphp.cn/)
 
 ## 原理介绍
 由于微信文档的表述，以及接口返回状态意思的不清晰，因此记下并分享PHP后端+移动端实现移动端微信支付的详细流程和代码。
